@@ -1,4 +1,4 @@
-Hello
+Hello;
 
 I'm [Ferhat Mousavi](https://www.linkedin.com/in/ferhatmousavi/), a software developer since 1991 with experience in various programming languages such as BASIC, C, C++, Pascal, PHP, Visual Basic, C#, Java, Flutter, JavaScript, and Python.
 
