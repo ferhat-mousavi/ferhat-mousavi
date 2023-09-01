@@ -6,7 +6,7 @@ Having used Python for years, I have undertaken numerous projects with it and am
 
 My expertise includes strategy development, leadership, project and program management, product and business operations, enterprise applications, and software architecture. Additionally, I am skilled in systems analysis, design and maintenance, project and team management using PMI methodologies, full life-cycle IT solutions development, mentoring, and startups.
 
-With over 23 years of diverse experience in information technology, I have been involved in a wide range of software projects across industries such as retail, banking, IT, cryptocurrency, and blockchain.
+With over 24 years of diverse experience in information technology, I have been involved in a wide range of software projects across industries such as retail, banking, IT, cryptocurrency, and blockchain.
 
 My specializations include Apache Spark, Apache Kafka, MongoDB, Hazelcast, ANSI C/C++, Visual C++ (MFC & COM), Embedded C (on ARM Processors), Python, Visual C#.NET, Visual Basic.NET, ASP.NET MVC and WebForms, PL/SQL, AJAX, Fiscal ECR/POS, EMV, ISO7816, ISO14443, MDB/ICP, ISO8583, APACS 30-40, UPOS, and SMP.
 
