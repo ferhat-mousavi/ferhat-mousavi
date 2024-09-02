@@ -8,7 +8,7 @@ Over my 28-year career, I have been involved in numerous software projects acros
 
 I have a particular interest and extensive experience in payment systems, including e-payments VAS, loyalty programs, and EMV card & terminal solutions. My work in retail services and server-side software infrastructure has demanded high availability and robustness. Furthermore, I have been involved in developing call center infrastructures, business intelligence, machine learning (ML), predictive analytics, and various data transformation initiatives, always aiming to push the boundaries of what technology can achieve in business and beyond.
 
-Additionally, I have single-handedly developed "Asha Empire Online," a game using the Unreal Engine. This development included everything from design to coding, showcasing my comprehensive skill set. In creating this game, I combined high-quality graphics and realistic game mechanics to produce an expansive online multiplayer environment, further extending my expertise into the realm of game development.
+Additionally, I have single-handedly developed both 'Asha Empire Online' and 'Asha Empire: Exodus' using the Unreal Engine. This development included everything from design to coding, showcasing my comprehensive skill set. In creating these games, I combined high-quality graphics and realistic game mechanics to produce expansive online multiplayer and single-player environments, further extending my expertise into the realm of game development.
 
 ![Ferhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferhat-mousavi&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 
