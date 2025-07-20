@@ -3,7 +3,7 @@ I’m [Ferhat Mousavi](https://www.linkedin.com/in/ferhatmousavi/), a seasoned s
 ---
 
 ### Recent Python projects for the Turkish fiscal ecosystem
-I recently engineered—entirely in **Python**—two nationwide, regulatory‑compliant platforms for Turkey’s Revenue Administration:
+I recently engineered (entirely in **Python**) two nationwide, regulatory‑compliant platforms for Turkey’s Revenue Administration:
 
 | Project | What it does | Why it matters |
 |---------|--------------|----------------|
